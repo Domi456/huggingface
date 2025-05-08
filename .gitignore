@@ -1,0 +1,12 @@
+# virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# api key
+*.env
+
+# images
+*.png
